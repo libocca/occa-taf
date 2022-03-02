@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The scope of OCCA usage and development has grown considerably since the framework's beginnings. In particular, it is a key dependency of mission-critical computational science and engineering applications in government, industry, and academia internaltionally. 
+The scope of OCCA usage and development has grown considerably since the framework's beginnings. In particular, it is a key dependency of mission-critical computational science and engineering applications in government, industry, and academia internationally. 
 
 The OCCA Technical Advisory Forum aims bring together OCCA users and developers to discuss technical aspects of the framework, plan for future development, and to ensure the maintenance and reliability of the codebase.
 
