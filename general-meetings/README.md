@@ -8,6 +8,6 @@ To have a topic added to the meeting agenda, contact [Kris Rowe](mailto:kris.row
 
 ### Upcoming
 
-- [2022-03-09](meeting-minutes/2022-03-09.md)
+- [2022-03-09](2022-03-09.md)
 
 ### Past
