@@ -14,7 +14,7 @@ Meetings are held virtually using MS Teams. **A link will be posted in the meeti
 
 ### Upcoming
 
-- [2022-11-02](meeting-notes/2022-11-02.md)
+- [2022-11-16](meeting-notes/2022-11-16.md)
 
 ### Past
 
