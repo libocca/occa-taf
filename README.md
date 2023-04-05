@@ -8,15 +8,15 @@ The OCCA Technical Advisory Forum aims bring together OCCA users and developers 
 
 ## Meetings
 
-The technical advisory forum meets **the first Wednesday of each month at 10:00 Central Time (US)** to accommodate the greatest number of attendees. To have a topic added to the meeting agenda, create a pull-request here or contact [Kris Rowe](mailto:kris.rowe@anl.gov).
+The technical advisory forum meets **the third Wednesday of each month at 10:00 Central Time (US)** to accommodate the greatest number of attendees. To have a topic added to the meeting agenda, create a pull-request here or contact [Kris Rowe](mailto:kris.rowe@anl.gov).
 
 Meetings are held virtually using MS Teams. **A link will be posted in the meeting notes ~15 minutes prior.**
 
 ### Upcoming
 
-- [2023-04-05](meeting-notes/2023-04-05.md)
-- [2023-05-03](meeting-notes/2023-05-03.md)
-- [2023-06-07](meeting-notes/2023-06-07.md)
+- [2023-04-19](meeting-notes/2023-04-19.md)
+- [2023-05-17](meeting-notes/2023-05-17.md)
+- [2023-06-21](meeting-notes/2023-06-21.md)
 
 ### Past
 
