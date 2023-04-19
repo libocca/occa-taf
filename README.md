@@ -14,29 +14,13 @@ Meetings are held virtually using MS Teams. **A link will be posted in the meeti
 
 ### Upcoming
 
-- [2023-04-19](meeting-notes/2023-04-19.md)
 - [2023-05-17](meeting-notes/2023-05-17.md)
 - [2023-06-21](meeting-notes/2023-06-21.md)
 
 ### Past
 
-#### 2022
-
-- [2022-12-14](meeting-notes/2022/2022-12-14.md)
-- [2022-11-16](meeting-notes/2022/2022-11-16.md)
-- [2022-10-05](meeting-notes/2022/2022-10-05.md)
-- [2022-09-21](meeting-notes/2022/2022-09-21.md)
-- [2022-09-07](meeting-notes/2022/2022-09-07.md)
-- [2022-08-24](meeting-notes/2022/2022-08-24.md)
-- [2022-07-27](meeting-notes/2022/2022-07-27.md)
-- [2022-07-13](meeting-notes/2022/2022-07-13.md)
-- [2022-06-29](meeting-notes/2022/2022-06-29.md)
-- [2022-06-01](meeting-notes/2022/2022-06-01.md)
-- [2022-05-18](meeting-notes/2022/2022-05-18.md)
-- [2022-04-20](meeting-notes/2022/2022-04-20.md)
-- [2022-04-06](meeting-notes/2022/2022-04-06.md)
-- [2022-03-23](meeting-notes/2022/2022-03-23.md)
-- [2022-03-09](meeting-notes/2022/2022-03-09.md)
+- [2023-04-19](meeting-notes/2023-04-19.md)
+- [2022](meeting-notes/2022)
 
 ## Contact Info
 
