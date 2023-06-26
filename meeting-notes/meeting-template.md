@@ -4,10 +4,6 @@
 
 *This will be posted ~15 mins prior to the start of the meeting.*
 
-## Attendees
-
-- 
-
 ## Follow-up
 *Action items from last meeting*
 
