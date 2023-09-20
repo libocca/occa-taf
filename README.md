@@ -14,13 +14,13 @@ Meetings are held virtually using MS Teams. **A link will be posted in the meeti
 
 ### Upcoming
 
-- [2023-09-20](meeting-notes/2023-09-20.md)
 - [2023-10-18](meeting-notes/2023-10-18.md)
 - [2023-11-15](meeting-notes/2023-11-15.md)
 - [2023-12-20](meeting-notes/2023-12-20.md)
 
 ### Past
 
+- [2023-09-20](meeting-notes/2023-09-20.md)
 - [2023-08-16](meeting-notes/2023-08-16.md)
 - [2023-07-19](meeting-notes/2023-07-19.md)
 - [2023-06-21](meeting-notes/2023-06-21.md)
