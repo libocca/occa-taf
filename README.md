@@ -28,6 +28,12 @@ Meetings are held virtually using MS Teams. **A link will be posted in the meeti
 - [2023-04-19](general-meetings/2023-04-19.md)
 - [2022](general-meetings/2022)
 
+## Working Groups
+
+Working groups will be formed periodically to help address specific topics which require a focused effort and more frequent discussions. Participation in working groups is open to everyone. Please see the relevant links below for more details.
+
+- [Tools Working Group](working-groups/tools/README.md)
+
 ## Contact Info
 
 Questions or feedback can be directed to [Kris Rowe](mailto:kris.rowe@anl.gov).
