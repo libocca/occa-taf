@@ -6,4 +6,8 @@ Meetings will be held virtually and link will be posted in the meeting notes ahe
 
 ### Upcoming
 
-- 2023-12-04 at 10:00 am Central Time (US)
+- [2023-12-11](2023-12-11.md)
+
+### Past
+
+- [2023-12-04](2023-12-04.md)
