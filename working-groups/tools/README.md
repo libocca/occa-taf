@@ -2,7 +2,7 @@
 
 ## Meetings
 
-Meetings will be held virtually and link will be posted in the meeting notes ahead of time. 
+Meetings will be held virtually and link will be posted in the meeting notes ahead of time.
 
 ### Upcoming
 
