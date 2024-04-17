@@ -14,13 +14,13 @@ Meetings are held virtually using MS Teams. **A link will be posted in the meeti
 
 ### Upcoming
 
-- [2024-03-20](general-meetings/2024-03-20.md)
 - [2024-04-17](general-meetings/2024-04-17.md)
 - [2024-05-15](general-meetings/2024-05-15.md)
 - [2024-06-19](general-meetings/2024-06-19.md)
 
 ### Past
 
+- [2024-03-20](general-meetings/2024-03-20.md)
 - [2024-02-21](general-meetings/2024-02-21.md)
 - [2023](general-meetings/2023)
 - [2022](general-meetings/2022)
